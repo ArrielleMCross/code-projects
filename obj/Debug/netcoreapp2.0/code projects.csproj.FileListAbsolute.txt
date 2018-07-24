@@ -1,0 +1,10 @@
+C:\Users\arrie\OneDrive\Documents\code projects\bin\Debug\netcoreapp2.0\code projects.deps.json
+C:\Users\arrie\OneDrive\Documents\code projects\bin\Debug\netcoreapp2.0\code projects.runtimeconfig.json
+C:\Users\arrie\OneDrive\Documents\code projects\bin\Debug\netcoreapp2.0\code projects.runtimeconfig.dev.json
+C:\Users\arrie\OneDrive\Documents\code projects\bin\Debug\netcoreapp2.0\code projects.dll
+C:\Users\arrie\OneDrive\Documents\code projects\bin\Debug\netcoreapp2.0\code projects.pdb
+C:\Users\arrie\OneDrive\Documents\code projects\obj\Debug\netcoreapp2.0\code projects.csproj.CoreCompileInputs.cache
+C:\Users\arrie\OneDrive\Documents\code projects\obj\Debug\netcoreapp2.0\code projects.AssemblyInfoInputs.cache
+C:\Users\arrie\OneDrive\Documents\code projects\obj\Debug\netcoreapp2.0\code projects.AssemblyInfo.cs
+C:\Users\arrie\OneDrive\Documents\code projects\obj\Debug\netcoreapp2.0\code projects.dll
+C:\Users\arrie\OneDrive\Documents\code projects\obj\Debug\netcoreapp2.0\code projects.pdb
